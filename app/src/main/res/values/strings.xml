@@ -22,7 +22,7 @@
     <string name="registrarse">Registrarse</string>
     <string name="contrase_a">Contraseña</string>
     <string name="nombre_de_usuario">Nombre de Usuario</string>
-    <string name="todo1">TODO</string>
+    <string name="todo12">TODO</string>
     <string name="registrarse1">Registrarse</string>
     <string name="cancelar">Cancelar</string>
     <string name="crea_una_contrase_a">Crea una Contraseña</string>
@@ -32,6 +32,10 @@
     <string name="crea_un_nickname">Crea un NickName</string>
     <string name="correo">Correo</string>
     <string name="nickname">nickName</string>
+    <string name="todo1">TODO</string>
+    <string name="ver_comic">Ver Comic</string>
+    <string name="titullo_comic">Titullo Comic</string>
+    <string name="descripcion">Descripcion</string>
     <string name="todo">TODO</string>
 
 

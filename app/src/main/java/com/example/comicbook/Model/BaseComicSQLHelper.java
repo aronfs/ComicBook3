@@ -19,7 +19,9 @@ public class BaseComicSQLHelper extends SQLiteOpenHelper {
 
     private static final String BASE_DATOS = "BaseComic.sqlite";
 
-Context miContext;
+    Context miContext;
+
+
     public BaseComicSQLHelper(@Nullable Context context) {
         super(context, BASE_DATOS, null, 3);
         miContext=context;
@@ -55,9 +57,13 @@ Context miContext;
         this.getWritableDatabase().execSQL(sql);
     }
 
+
+
     public Cursor query (String sql){
         return this.getReadableDatabase().rawQuery(sql, null);
     }
+
+
     @Override
     public void onCreate(SQLiteDatabase sqLiteDatabase) {
 

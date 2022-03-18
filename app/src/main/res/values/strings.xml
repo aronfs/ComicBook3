@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">ComicBook</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Inicio</string>
+    <string name="action_settings">Informacion</string>
+
+    <string name="menu_home">Catalogos</string>
+    <string name="menu_gallery">Perfil</string>
+    <string name="menu_slideshow">Publicar un Comic</string>
+    <string name="ingrese_el_titulo_del_comic">Ingrese el Titulo del Comic</string>
+    <string name="cancelar1">Cancelar</string>
+    <string name="ingrese_el_serial_del_comic">Ingrese el Serial del Comic</string>
+    <string name="ingrese_la_editorial_del_comic">Ingrese la Editorial del Comic</string>
+    <string name="ingrese_el_numero_total_de_tomos">Ingrese el Numero Total de Tomos</string>
+    <string name="ingrese_la_puntuacion_del_comic">Ingrese la Puntuacion del Comic</string>
+    <string name="guardar">Guardar</string>
+    <string name="descripcion_del_comic">Descripcion del Comic</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="contrase_a">Contraseña</string>
+    <string name="nombre_de_usuario">Nombre de Usuario</string>
+    <string name="todo1">TODO</string>
+    <string name="registrarse1">Registrarse</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="crea_una_contrase_a">Crea una Contraseña</string>
+    <string name="ingresa_correo_electronico">Ingresa Correo Electronico</string>
+    <string name="ingresa_tu_apellido">Ingresa tu Apellido</string>
+    <string name="ingresa_tu_nombre">Ingresa tu Nombre</string>
+    <string name="crea_un_nickname">Crea un NickName</string>
+    <string name="correo">Correo</string>
+    <string name="nickname">nickName</string>
+    <string name="todo">TODO</string>
+
+
+    <string-array name="Genero_Comic">
+        <item>Comedia</item>
+        <item>Romance</item>
+        <item>Accion</item>
+        <item>Horror</item>
+        <item>Escolar</item>
+    </string-array>
+
+</resources>

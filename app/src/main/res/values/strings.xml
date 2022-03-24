@@ -37,6 +37,8 @@
     <string name="titullo_comic">Titullo Comic</string>
     <string name="descripcion">Descripcion</string>
     <string name="todo">TODO</string>
+    <string name="idusuario">IdUsuario</string>
+    <string name="nombre">nombre</string>
 
 
     <string-array name="Genero_Comic">
